@@ -1,7 +1,7 @@
 #!/bin/bash
-# Simple Dante Socks5 Script for Debian
-# Script by Bonveio
-# https://github.com/Bonveio/BonvScripts
+# Socks5 Script for Debian
+# Script by roro
+# roro
 #
 
 function YourBanner(){
